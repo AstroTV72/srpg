@@ -1,0 +1,4 @@
+name: SRPG
+version: 1.0
+api-version: 1.18
+main: me.astro.srpg.Main
